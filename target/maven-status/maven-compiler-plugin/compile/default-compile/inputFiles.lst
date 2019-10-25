@@ -1,0 +1,15 @@
+/Users/murali/work/s2h/janugraph/graphqlexamples/graphql-java-spring-boot-example/src/main/java/com/example/DemoGraphQL/resolver/Mutation.java
+/Users/murali/work/s2h/janugraph/graphqlexamples/graphql-java-spring-boot-example/src/main/java/com/example/DemoGraphQL/config/JanusGraphProperties.java
+/Users/murali/work/s2h/janugraph/graphqlexamples/graphql-java-spring-boot-example/src/main/java/com/example/DemoGraphQL/model/MeterDetails.java
+/Users/murali/work/s2h/janugraph/graphqlexamples/graphql-java-spring-boot-example/src/main/java/com/example/DemoGraphQL/repository/MeterReadingRepository.java
+/Users/murali/work/s2h/janugraph/graphqlexamples/graphql-java-spring-boot-example/src/main/java/com/example/DemoGraphQL/exception/GraphQLErrorAdapter.java
+/Users/murali/work/s2h/janugraph/graphqlexamples/graphql-java-spring-boot-example/src/main/java/com/example/DemoGraphQL/bootstrap/LoadMeterDetails.java
+/Users/murali/work/s2h/janugraph/graphqlexamples/graphql-java-spring-boot-example/src/main/java/com/example/DemoGraphQL/config/JanusGraphConfiguration.java
+/Users/murali/work/s2h/janugraph/graphqlexamples/graphql-java-spring-boot-example/src/main/java/com/example/DemoGraphQL/repository/VertexValuesWrapper.java
+/Users/murali/work/s2h/janugraph/graphqlexamples/graphql-java-spring-boot-example/src/main/java/com/example/DemoGraphQL/repository/ModelConstants.java
+/Users/murali/work/s2h/janugraph/graphqlexamples/graphql-java-spring-boot-example/src/main/java/com/example/DemoGraphQL/resolver/Query.java
+/Users/murali/work/s2h/janugraph/graphqlexamples/graphql-java-spring-boot-example/src/main/java/com/example/DemoGraphQL/bootstrap/LoadUtil.java
+/Users/murali/work/s2h/janugraph/graphqlexamples/graphql-java-spring-boot-example/src/main/java/com/example/DemoGraphQL/config/EmbeddedGraphConfiguration.java
+/Users/murali/work/s2h/janugraph/graphqlexamples/graphql-java-spring-boot-example/src/main/java/com/example/DemoGraphQL/config/BootstrapProperties.java
+/Users/murali/work/s2h/janugraph/graphqlexamples/graphql-java-spring-boot-example/src/main/java/com/example/DemoGraphQL/DemoGraphQlApplication.java
+/Users/murali/work/s2h/janugraph/graphqlexamples/graphql-java-spring-boot-example/src/main/java/com/example/DemoGraphQL/model/MeterReading.java

@@ -1,0 +1,18 @@
+server:
+  port: 8080
+
+janusGraph:
+  hosts: localhost
+  type: remote
+
+logging:
+  level:
+    root: INFO
+
+spring:
+  jackson:
+    date-format: "yyyy-mm-dd"
+    serialization:
+      write-dates-as-timestamps: false
+  config:
+    location:

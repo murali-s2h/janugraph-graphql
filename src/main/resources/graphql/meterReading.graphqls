@@ -1,0 +1,10 @@
+type MeterReading {
+  timestamp : String!, 
+  kwh : Float, 
+  kw : Float, 
+  kwa : Float
+}
+
+type Query {
+    findAllReadings: [MeterReading]!
+}

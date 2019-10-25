@@ -1,0 +1,51 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.example.DemoGraphQL.config.BootstrapProperties",
+      "name": "bootstrap",
+      "type": "com.example.DemoGraphQL.config.BootstrapProperties"
+    },
+    {
+      "sourceType": "com.example.DemoGraphQL.config.JanusGraphProperties",
+      "name": "janusGraph",
+      "type": "com.example.DemoGraphQL.config.JanusGraphProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.example.DemoGraphQL.config.BootstrapProperties",
+      "defaultValue": true,
+      "name": "bootstrap.load-data",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.example.DemoGraphQL.config.BootstrapProperties",
+      "defaultValue": true,
+      "name": "bootstrap.load-schema",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.example.DemoGraphQL.config.JanusGraphProperties",
+      "name": "janusGraph.hosts",
+      "type": "java.util.Set<java.lang.String>"
+    },
+    {
+      "sourceType": "com.example.DemoGraphQL.config.JanusGraphProperties",
+      "name": "janusGraph.hosts",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.example.DemoGraphQL.config.JanusGraphProperties",
+      "defaultValue": 8182,
+      "name": "janusGraph.port",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.example.DemoGraphQL.config.JanusGraphProperties",
+      "defaultValue": "remote",
+      "name": "janusGraph.type",
+      "type": "java.lang.String"
+    }
+  ]
+}
